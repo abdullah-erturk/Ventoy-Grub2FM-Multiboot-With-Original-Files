@@ -1,4 +1,4 @@
-# Ventoy-Grub2fm-Multiboot-With-Original-Files-
+# Ventoy & Grub2FM Multiboot (With Original Files)
 
 https://www.tnctr.com/topic/1174848-ventoy-grub2fm-multiboot-orijinal-dosyalarla/
 
