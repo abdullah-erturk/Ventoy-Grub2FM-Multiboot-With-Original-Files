@@ -76,7 +76,7 @@ By running the Grub2FM_Ventoy_EN.cmd file with the 3rd option both multiboot bui
 
 Hotkey from Ventoy to Grub2FM: F6
 
-Grub2FM to Ventoy hotkey: F5 > V
+Hotkey from Grub2FM to Ventoy: F5 > V
 
 Ventoy is version v1.0.75.
 
