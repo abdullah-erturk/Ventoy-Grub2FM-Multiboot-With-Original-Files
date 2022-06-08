@@ -17,6 +17,9 @@ Bu betik dosyası ile orijinal Grub2FM ve Ventoy dosyalarını kullanarak iki mu
 USB veya HDD disklere kurulum yapmak için 1-2 tıklama yeterlidir.
 	
 DİKKAT:
+
+Herhangi bir disk işleminin belirli riskleri vardır. Komut dosyası, kullanıcıyı bilgilendirerek mevcut verileri güvende tutmaya çalışır, ancak çok önemli veriler için önce bir yedekleme yapılması şiddetle tavsiye edilir.
+
 İlk kurulumda Ventoy üzerinden tahribatsız kurulum seçeneği ile kurulum yapmayacaksanız USB/HDD diskiniz tamamen formatlanacaktır. Veri kaybı için önleminizi alın.
 	
 Hem Ventoy hem de Grub2FM efi modunda secureboot uyumludur.
@@ -62,6 +65,8 @@ Installing to USB or disks is enough for 1-2 clicks.
 	
 	ATTENTION:
   
+Any disk operation has certain risks. The script file tries to keep the existing data safe by notifying the user, but it is highly recommended to make a backup first for very important data.
+
 In the first installation, if you do not install with the non-destructive installation option your USB/HDD disk will be completely formatted.
 
 Both Ventoy and Grub2FM are secure boot compatible in efi mode.
