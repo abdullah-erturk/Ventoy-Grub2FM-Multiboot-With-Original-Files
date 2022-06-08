@@ -62,7 +62,7 @@ Installing to USB or disks is enough for 1-2 clicks.
 	
 	ATTENTION:
   
-Your USB/HDD disk will be completely formatted at the first installation. Take your precautions for data loss.
+In the first installation, if you do not install with the non-destructive installation option your USB/HDD disk will be completely formatted. Take your precautions for data loss.
 	
 Both Ventoy and Grub2FM are secure boot compatible in efi mode.
 
