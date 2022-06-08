@@ -32,7 +32,7 @@ Ventoy güncel dosyaları indirildikten sonra ilgili dosyalar Ventoy klasörüne
 	
 Grub2FM güncel dosyaları indirildikten sonra ilgili dosyalar Grub2FM klasörüne 
 	
-kopyalanır ve Grub2FM_Ventoy_TR.cmd dosyası çalıştırılarak 3. seçenek ile kolay bir şekilde her iki multiboot yapısı da güncellenebilir.
+kopyalanır ve Grub2FM_Ventoy_TR.cmd dosyası çalıştırılarak 2. seçenek ile kolay bir şekilde her iki multiboot yapısı da güncellenebilir.
 	
 Ventoy'dan Grub2FM'e geçiş kısayolu: F6
 
@@ -62,8 +62,8 @@ Installing to USB or disks is enough for 1-2 clicks.
 	
 	ATTENTION:
   
-Your USB/HDD disk will be completely formatted at the first installation. Take your precautions for data loss.
-	
+In the first installation, if you do not install with the non-destructive installation option your USB/HDD disk will be completely formatted.
+
 Both Ventoy and Grub2FM are secure boot compatible in efi mode.
 
 In order to be able to use it with Secureboot turned on, the .cer file must be introduced  into the BIOS on first use.
@@ -78,7 +78,7 @@ After the Ventoy updated files are downloaded, the related files are copied to t
 	
 After the Grub2FM updated files are downloaded, the related files are copied to the Grub2FM folder. 
 		
-By running the Grub2FM_Ventoy_EN.cmd file with the 3rd option both multiboot builds can be easily updated.	
+By running the Grub2FM_Ventoy_EN.cmd file with the 2nd option both multiboot builds can be easily updated.	
 
 Hotkey from Ventoy to Grub2FM: F6
 
