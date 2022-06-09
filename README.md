@@ -33,6 +33,7 @@ Tam kurulum veya Tahribatsız Kurulum yöntemlerinden hangisi seçilirse seçils
 "Bölüm Yapısı" GPT seçilirse Grub2FM kurulumu olmayacaktır ve betik dosyası hata verecektir.
 
 Güncelleme İşlemi:
+
 Ventoy ve Grub2FM'in yeni versiyonları çıktığında:
 	
 Ventoy güncel dosyaları indirildikten sonra ilgili dosyalar Ventoy klasörüne 
