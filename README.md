@@ -17,6 +17,9 @@ Bu betik dosyası ile orijinal Grub2FM ve Ventoy dosyalarını kullanarak iki mu
 USB veya HDD disklere kurulum yapmak için 1-2 tıklama yeterlidir.
 	
 DİKKAT:
+
+Herhangi bir disk işleminin belirli riskleri vardır. Komut dosyası, kullanıcıyı bilgilendirerek mevcut verileri güvende tutmaya çalışır, ancak çok önemli veriler için önce bir yedekleme yapılması şiddetle tavsiye edilir.
+
 İlk kurulumda Ventoy üzerinden tahribatsız kurulum seçeneği ile kurulum yapmayacaksanız USB/HDD diskiniz tamamen formatlanacaktır. Veri kaybı için önleminizi alın.
 	
 Hem Ventoy hem de Grub2FM efi modunda secureboot uyumludur.
@@ -25,7 +28,12 @@ Secureboot açık iken kullanabilmek için ilk kullanımda .cer dosyasının BIO
 
 Secureboot desteği için Ventoy'da kullanıcı seçimi gereklidir ancak Grub2FM'de secureboot desteği varsayılan olarak gelir.
 	
+Tam kurulum veya Tahribatsız Kurulum yöntemlerinden hangisi seçilirse seçilsin "Bölüm Yapısı" nın MBR olması şarttır, MBR ile kurulmuş Ventoy ve Grub2FM'in UEFI desteği vardır ayrıca geriye dönük eski pclerde de sorunsuz çalışır.
+
+"Bölüm Yapısı" GPT seçilirse Grub2FM kurulumu olmayacaktır ve betik dosyası hata verecektir.
+
 Güncelleme İşlemi:
+
 Ventoy ve Grub2FM'in yeni versiyonları çıktığında:
 	
 Ventoy güncel dosyaları indirildikten sonra ilgili dosyalar Ventoy klasörüne 
@@ -52,7 +60,7 @@ Grub2FM Suite Tanıtım videosu crasadure TNCTR.com
 https://www.youtube.com/watch?v=CAXZgPGpmUk
 	
 	
-	
+		
 	
 	2- English Explanation
 
@@ -62,6 +70,8 @@ Installing to USB or disks is enough for 1-2 clicks.
 	
 	ATTENTION:
   
+Any disk operation has certain risks. The script file tries to keep the existing data safe by notifying the user, but it is highly recommended to make a backup first for very important data.
+
 In the first installation, if you do not install with the non-destructive installation option your USB/HDD disk will be completely formatted.
 
 Both Ventoy and Grub2FM are secure boot compatible in efi mode.
@@ -69,6 +79,10 @@ Both Ventoy and Grub2FM are secure boot compatible in efi mode.
 In order to be able to use it with Secureboot turned on, the .cer file must be introduced  into the BIOS on first use.
 	
 User selection is required for secureboot support in Ventoy, but secureboot support comes by default in Grub2FM.
+
+Regardless of whether Full installation or Non-Destructive Installation is chosen, the "Partition Structure" must be MBR. Ventoy and Grub2FM installed with MBR have UEFI support and also run smoothly on backwards old PCs.
+
+If "Partition Structure" GPT is selected, Grub2FM will not be installed and the script will fail.
 
 Update Process:
 
