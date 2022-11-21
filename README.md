@@ -46,7 +46,7 @@ Grub2FM'den Ventoy'a geçiş kısayolu: F5 > V
 
 Kurulum klasörleri içindeki
 
-Ventoy v1.0.76 sürümüdür.
+Ventoy v1.0.82 sürümüdür.
 
 Grub2FM 9 Mart 2022 tarihinde oluşturulan Pre-Release sürümdür.
 
@@ -94,7 +94,7 @@ Hotkey from Ventoy to Grub2FM: F6
 
 Hotkey from Grub2FM to Ventoy: F5 > V
 
-Ventoy is version v1.0.76.
+Ventoy is version v1.0.82.
 
 Grub2FM is the Pre-Release version created on March 9, 2022.
 
