@@ -8,7 +8,7 @@ credit: Alive
 
 Ventoy Github: https://github.com/ventoy/Ventoy
 
-credit: longpanda
+credit: longpanda 
 
 	1- Türkçe Açıklama
 
