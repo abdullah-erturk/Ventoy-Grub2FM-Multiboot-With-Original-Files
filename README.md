@@ -16,7 +16,7 @@ Bu betik dosyası ile orijinal Grub2FM ve Ventoy dosyalarını kullanarak iki mu
 	
 USB veya HDD disklere kurulum yapmak için 1-2 tıklama yeterlidir.
 	
-DİKKAT:
+	DİKKAT:
 
 Herhangi bir disk işleminin belirli riskleri vardır. Komut dosyası, kullanıcıyı bilgilendirerek mevcut verileri güvende tutmaya çalışır, ancak çok önemli veriler için önce bir yedekleme yapılması şiddetle tavsiye edilir.
  
