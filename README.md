@@ -38,7 +38,7 @@ Ventoy güncel dosyaları indirildikten sonra ilgili dosyalar Ventoy klasörüne
 	
 Grub2FM güncel dosyaları indirildikten sonra ilgili dosyalar Grub2FM klasörüne 
 	
-kopyalanır ve Grub2FM_Ventoy_TR.cmd dosyası çalıştırılarak 2. seçenek ile kolay bir şekilde her iki multiboot yapısı da güncellenebilir.
+kopyalanır ve Grub2FM_Ventoy_TR.bat dosyası çalıştırılarak 2. seçenek ile kolay bir şekilde her iki multiboot yapısı da güncellenebilir.
 	
 Ventoy'dan Grub2FM'e geçiş kısayolu: F6
 
@@ -46,7 +46,7 @@ Grub2FM'den Ventoy'a geçiş kısayolu: F5 > V
 
 Kurulum klasörleri içindeki
 
-Ventoy v1.0.82 sürümüdür.
+Ventoy v1.0.87 sürümüdür.
 
 Grub2FM 9 Mart 2022 tarihinde oluşturulan Pre-Release sürümdür.
 
@@ -88,13 +88,13 @@ After the Ventoy updated files are downloaded, the related files are copied to t
 	
 After the Grub2FM updated files are downloaded, the related files are copied to the Grub2FM folder. 
 		
-By running the Grub2FM_Ventoy_EN.cmd file with the 2nd option both multiboot builds can be easily updated.	
+By running the Grub2FM_Ventoy_EN.bat file with the 2nd option both multiboot builds can be easily updated.	
 
 Hotkey from Ventoy to Grub2FM: F6
 
 Hotkey from Grub2FM to Ventoy: F5 > V
 
-Ventoy is version v1.0.82.
+Ventoy is version v1.0.87.
 
 Grub2FM is the Pre-Release version created on March 9, 2022.
 
