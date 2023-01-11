@@ -19,7 +19,7 @@ USB veya HDD disklere kurulum yapmak için 1-2 tıklama yeterlidir.
 DİKKAT:
 
 Herhangi bir disk işleminin belirli riskleri vardır. Komut dosyası, kullanıcıyı bilgilendirerek mevcut verileri güvende tutmaya çalışır, ancak çok önemli veriler için önce bir yedekleme yapılması şiddetle tavsiye edilir.
-
+ 
 İlk kurulumda Ventoy üzerinden tahribatsız kurulum seçeneği ile kurulum yapmayacaksanız USB/HDD diskiniz tamamen formatlanacaktır. Veri kaybı için önleminizi alın.
 	
 Hem Ventoy hem de Grub2FM efi modunda secureboot uyumludur.
